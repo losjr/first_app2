@@ -1,4 +1,5 @@
 == README
+# Ruby on Rails Tutorial: second first application
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
